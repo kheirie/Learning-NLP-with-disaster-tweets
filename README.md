@@ -1,4 +1,4 @@
-# NLP-with-disaster-tweets
+# Learning-NLP-with-disaster-tweets
 Introduction to Sentiment Analysis with Disaster Tweets. 
 This project was created for learning purposes. The objective was to:
 - Explore Natural Language Processing (NLP) and text-based deep learning
